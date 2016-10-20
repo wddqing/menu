@@ -1,0 +1,11 @@
+name: ServerSelector
+main: com.mcelf.serverselector.ServerSelector
+version: 1.0-SNAPSHOT
+
+commands:
+  serverlist:
+    description: 打开服务器列表
+    usage: /<command>
+    aliases: [sl]
+    permission: serverselector.select
+    permission-message: 你没有权限使用这个命令。
