@@ -1,0 +1,10 @@
+name: menu
+main: com.mcelf.menu.MenuPlugin
+version: 1.0
+
+commands:
+  menu:
+    description: men manager
+    usage: /<command>
+    permission: menu.*
+    permission-message: You don't have <permission></source> </code> </blockquote>
